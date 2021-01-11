@@ -4,7 +4,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 st.title('Motosport Data Science App')
 st.write('An application for the data science team of Motosport')
